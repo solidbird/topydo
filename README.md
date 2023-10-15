@@ -19,6 +19,8 @@ More In-Depth Documentation
 ---------------------------
 https://ugeek.github.io/blog/varios/topydo.html
 
+If you want a fast look into some features and stuff look further here
+
 Features
 --------
 
